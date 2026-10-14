@@ -23,6 +23,8 @@ We then completed the final design collaboratively, including further layout rev
 
 ### My PCB design
 
+My individual PCB layout and its 3D preview are shown below. The design files are available on the **[MartynaPCB](https://github.com/Mirginia0/Plant-Caretaker-PCB-Design/tree/MartynaPCB)** branch.
+
 <table>
 <tr><th width="50%">PCB layout</th><th width="50%">3D preview</th></tr>
 <tr>
