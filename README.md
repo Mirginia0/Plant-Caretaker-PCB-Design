@@ -35,7 +35,7 @@ My individual PCB layout and its 3D preview are shown below. The design files ar
 
 ## Final team design
 
-The **main** branch contains the final PCB developed from Dario's layout. Subsequent revisions included changes to routing, copper zones, component footprints and ground connections, including a net-tie connection in the audio-amplifier circuit.
+The **[main](https://github.com/Mirginia0/Plant-Caretaker-PCB-Design/tree/main)** branch contains the final PCB developed from Dario's layout. Subsequent revisions included changes to routing, copper zones, component footprints and ground connections, including a net-tie connection in the audio-amplifier circuit.
 
 <table>
 <tr><th width="50%">PCB layout</th><th width="50%">3D preview</th></tr>
