@@ -17,6 +17,10 @@ We then completed the final design collaboratively, including further layout rev
 
 > I co-developed the initial schematic and was responsible for the complete development of my PCB layout on the **MartynaPCB** branch. My work included footprint preparation, component placement, routing, copper pours and revisions following the instructor's feedback. I also prepared approximately half of the bill of materials and contributed to completing the final team design.
 
+## Team contributions
+
+> Dario developed the **DarioPCB** layout, which became the basis for the final board. Maciej worked on a separate layout variant and participated in the initial schematic development and team work. We completed the final design together.
+
 ### My PCB design
 
 <table>
@@ -26,10 +30,6 @@ We then completed the final design collaboratively, including further layout rev
 <td align="center"><a href="media/images/martyna-pcb-3d.png"><img src="media/images/martyna-pcb-3d.png" alt="3D preview of my individual PCB design" width="420"></a></td>
 </tr>
 </table>
-
-## Team contributions
-
-> Dario developed the **DarioPCB** layout, which became the basis for the final board. Maciej worked on a separate layout variant and participated in the initial schematic development and team work. We completed the final design together.
 
 ## Final team design
 
